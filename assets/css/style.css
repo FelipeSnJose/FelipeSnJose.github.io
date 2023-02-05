@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    background-image: url(../img/dark.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0%;
+
+}
+
+.intro {
+    color:#ffff
+}
+
+.descripcion {
+    color:#ffff;
+}
+
+.perfil {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.perfil{
+    width: 300px;
+    height: 410px;
+    border-radius: 100px;
+}
+
+.titulo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#info {
+    color:#ffff;
+}
+
+#portafolio-text {
+    color:#ffff;
+}
